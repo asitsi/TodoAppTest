@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TodoAppTest/static/css/main.c4c736a2.css",
+    "main.js": "/TodoAppTest/static/js/main.0d73f143.js",
+    "static/js/787.0c3f432a.chunk.js": "/TodoAppTest/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/TodoAppTest/index.html",
+    "main.c4c736a2.css.map": "/TodoAppTest/static/css/main.c4c736a2.css.map",
+    "main.0d73f143.js.map": "/TodoAppTest/static/js/main.0d73f143.js.map",
+    "787.0c3f432a.chunk.js.map": "/TodoAppTest/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4c736a2.css",
+    "static/js/main.0d73f143.js"
+  ]
+}
